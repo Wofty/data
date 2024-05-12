@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Oliver Watson",
+        "description": "Oliver, the visionary, transforms desserts into edible masterpieces, embodying innovation.",
+        "image": "/images/about/team/chef1.jpg"
+    },
+    {
+        "name": "William Watson",
+        "description": "William, the culinary maestro, orchestrates flavors with precision, defining indulgence.",
+        "image": "/images/about/team/chef2.jpg"
+    },
+    {
+        "name": "Eleanor Watson",
+        "description": "Eleanor, our tea whisperer, crafts immersive tea experiences, a tasteful journey.",
+        "image": "/images/about/team/chef3.jpg"
+    },
+    {
+        "name": "Henry Watson",
+        "description": "Henry, our catering virtuoso, tailors experiences, turning events into memories.",
+        "image": "/images/about/team/chef4.jpg"
+    }
+]
